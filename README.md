@@ -1,6 +1,6 @@
 # BEtube-Analytics-EngineV1.0
 Automating YouTube/Bilibili content analysis and localized remodeling via LLM.
-# 📈 Mobiliteee 内容增长引擎 (BEtube Content Analyzer) v2.0
+# 📈 Mobiliteee 内容增长引擎 (BEtube Content Analyzer) v1.0
 
 > 一个为出海新媒体团队打造的 AI Native 短视频数据审计与情绪反向工程系统。
 
