@@ -43,8 +43,5 @@ Automating YouTube/Bilibili content analysis and localized remodeling via LLM.
 ## 👨‍💻 开发者 (Author)
 
 **Mobiliteee** 
-- *资深新媒体增长策略师 / AI 内容产品探索者*
-- 致力于将“好内容的网感”抽象为可复用的“AI 自动化流水线”。
-
----
-*“不要迷信播放量，去寻找评论区里最极致的情绪燃料。”*
+*资深新媒体增长策略师 / AI 内容产品探索者*
+*致力于将“好内容的网感”抽象为可复用的“AI 自动化流水线”。
