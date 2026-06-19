@@ -2,3 +2,8 @@ streamlit
 openai
 yt-dlp
 youtube-transcript-api
+plotly
+pandas
+wordcloud
+matplotlib
+requests
