@@ -4,7 +4,7 @@ Automating YouTube/Bilibili content analysis and localized remodeling via LLM.
 
 > 一个为出海新媒体团队打造的 AI Native 短视频数据审计与情绪反向工程系统。
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#) *(这里未来可以换成你的真实公网链接)*
+[[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#)](https://betube-analytics-engine.streamlit.app/) *(这里未来可以换成你的真实公网链接)*
 
 ## 💡 项目背景 (Background)
 
